@@ -1,0 +1,122 @@
+{
+    "viajes": [
+      {
+        "nombre": "Triangulo del Amor",
+        "valoracion": 5.0,
+        "ubicacion": "Turin, Italia",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 5000,
+        "imagen": "./src/img/d-10.jpg"
+      },
+      {
+        "nombre": "Cristo Redentor",
+        "valoracion": 5.0,
+        "ubicacion": "Rio de Janeiro, Brasil",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 15000,
+        "imagen": "./src/img/d-14.jpg"
+      },
+      {
+        "nombre": "Nahuel Huapi",
+        "valoracion": 5.0,
+        "ubicacion": "Bariloche, Argentina",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 2000,
+        "imagen": "./src/img/d-13.png"
+      },
+      {
+        "nombre": "Republica Dominicana",
+        "valoracion": 5.0,
+        "ubicacion": "Santo Domingo, Republica Dominicana",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 25000,
+        "imagen": "./src/img/d-11.jpg"
+      },
+      {
+        "nombre": "Hemisferic",
+        "valoracion": 5.0,
+        "ubicacion": "Valencia, España",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 25000,
+        "imagen": "./src/img/d-1.jpg"
+      },
+      {
+        "nombre": "New York",
+        "valoracion": 5.0,
+        "ubicacion": "New York, EEUU",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 25000,
+        "imagen": "./src/img/d-2.jpg"
+      },
+      {
+        "nombre": "Plaza San Luis",
+        "valoracion": 5.0,
+        "ubicacion": "Buenos Aires, Argentina",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 25000,
+        "imagen": "./src/img/d-3.jpg"
+      },
+      {
+        "nombre": "Centro historico",
+        "valoracion": 5.0,
+        "ubicacion": "Quito, Ecuador",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 25000,
+        "imagen": "./src/img/d-4.jpg"
+      },
+      {
+        "nombre": "Esfinge",
+        "valoracion": 5.0,
+        "ubicacion": "Guiza, Egipto",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 25000,
+        "imagen": "./src/img/d-5.jpg"
+      },
+      {
+        "nombre": "Osaka Caslte Park",
+        "valoracion": 5.0,
+        "ubicacion": "Osaka, Japon",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 25000,
+        "imagen": "./src/img/d-6.jpg"
+      },
+      {
+        "nombre": "Schmidtchen",
+        "valoracion": 5.0,
+        "ubicacion": "Hamburgo, Alemania",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 25000,
+        "imagen": "./src/img/d-7.jpg"
+      },
+      {
+        "nombre": "Kamenný Most",
+        "valoracion": 5.0,
+        "ubicacion": "San Petersburgo, Russia",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 25000,
+        "imagen": "./src/img/d-8.jpg"
+      },
+      {
+        "nombre": "Palacio Ducal",
+        "valoracion": 5.0,
+        "ubicacion": "Venecia, Italia",
+        "salida": "05/05/2024",
+        "disponibilidad": "Disponible",
+        "precio": 25000,
+        "imagen": "./src/img/d-9.jpg"
+      }
+    ]
+  }
+  
